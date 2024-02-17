@@ -37,7 +37,7 @@
 
         .marq { 
 
-            padding-top: 2px; 
+            
 
             padding-bottom: 2px; 
 

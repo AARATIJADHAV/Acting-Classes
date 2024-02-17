@@ -26,7 +26,7 @@ public class TheRoyalActingAcademyController {
 
 	@RequestMapping("/")
 	public String name() {
-		return "useradminbtn";
+		return "index";
 	}
 
 	@RequestMapping("/aaratijadhavCreateAccount")
